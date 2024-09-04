@@ -1,4 +1,5 @@
 # Weather-App-using-HTML-CSS-and-JAVASCRIPT
+[Click Here To Open!!](https://ananya-srivastava18.github.io/Weather-App-using-HTML-CSS-and-JAVASCRIPT/)
 ## Project Overview
 The Weather App is a web application designed to provide real-time weather information for any city entered by the user. This project utilizes HTML, CSS, and JavaScript to create a user-friendly interface that fetches and displays weather data from the Open Weather Map API.
 
@@ -44,3 +45,5 @@ The CSS file provides basic styling to ensure a clean and user-friendly interfac
 ## API Integration
 The application uses the Open Weather Map API to fetch weather data. Ensure you have an API key from Open Weather Map and replace `YOUR_API_KEY` in the JavaScript file with your actual API key.
 
+# Here Are Some Previews
+![My Image](Preview.preview1.png)
