@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
+}
+body{
+  background-color:rgb(140, 215, 228) ;
+}
+.container{
+  background-color: rgb(227, 158, 225);
+  max-width: 750px;
+  text-align: center;
+  padding: 20px;
+  padding-top: 30px;
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.4);
+  margin:20px auto;
+  margin-top: 60px;
+  border-radius: 10px;
+}
+form{
+  display: flex;
+  justify-content: space-between;
+margin-top: 30px;
+align-items: center;
+
+}
+form input[type="text"]{
+  padding: 10px;
+  font-size: 18px;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color:rgb(140, 215, 228) ;
+}
+form input[type="submit"]{
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color:rgb(132, 14, 63) ;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+  color: white;
+}
+form input[type="submit"]:hover{
+  background-color:rgb(68, 3, 30) ;
+}
+.icon img{
+  width: 100px;
+  height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.temp{
+  font-size: 40px;
+  font-weight: 1000px;
+  margin-top: 15px;
+}
+.desc{
+  font-size: 35px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.details>div{
+  min-height: 40px;
+  text-align: center;
+  align-items: center;
+  font-size: 18px;
+  background-color:rgb(140, 215, 228) ;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 9px;
+  flex: 1;
+}
