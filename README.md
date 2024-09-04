@@ -46,4 +46,7 @@ The CSS file provides basic styling to ensure a clean and user-friendly interfac
 The application uses the Open Weather Map API to fetch weather data. Ensure you have an API key from Open Weather Map and replace `YOUR_API_KEY` in the JavaScript file with your actual API key.
 
 # Here Are Some Previews
-![My Image](Preview.preview1.png)
+![](Preview/preview1.png)
+![](Preview/preview2.png)
+![](Preview/preview3.png)
+
